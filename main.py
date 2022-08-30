@@ -33,7 +33,4 @@ while game_is_on:
         scoreboard.reset()
         car_manager.reset()
 
-
-
-
 screen.exitonclick()
